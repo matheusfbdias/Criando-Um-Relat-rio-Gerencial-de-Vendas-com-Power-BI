@@ -1,4 +1,4 @@
-# Criando-Um-Relotario-Gerencial-de-Vendas-com-Power-BI
+# Criando-Um-Relatorio-Gerencial-de-Vendas-com-Power-BI
 
 Desafio da plataforma de ensino DIO, Criando Um Relatório Gerencial de Vendas com Power BI
 
